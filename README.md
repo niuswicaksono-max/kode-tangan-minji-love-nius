@@ -1,5 +1,5 @@
 # 🤚 HandSpeak — Gesture-to-Voice Recognition (I Love Minji)
-
+ 
 Real-time hand gesture recognition app built with **MediaPipe Tasks API (HandLandmarker)** and **OpenCV**, using a single hand to trigger different spoken words based on which finger touches the thumb.
 
 ## 💡 Inspiration
